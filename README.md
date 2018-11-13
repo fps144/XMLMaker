@@ -1,2 +1,1 @@
-# SimpleXMLMaker
-简易XML文件生成器
+> 简易 XML 文件生成器
